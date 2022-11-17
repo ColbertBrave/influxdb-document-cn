@@ -21,8 +21,6 @@ InfluxDB是一个用于存储和分析时间序列数据的开源数据库。
 
 文档项目地址(Github)：[https://github.com/jasper-zhang/influxdb-document-cn](https://github.com/jasper-zhang/influxdb-document-cn)
 
-文档在线地址(Gitbook)：[https://jasper-zhang1.gitbooks.io/influxdb/content/](https://jasper-zhang1.gitbooks.io/influxdb/content/)
-
 作者博客：[http://www.opscoder.info](http://www.opscoder.info)
 
 *另外，文档基于InfluxDB版本1.3.x，如果后续版本有较大的改动，此文档也会跟进。*
